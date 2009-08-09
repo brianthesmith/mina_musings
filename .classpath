@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.5.0 (MacOS X Default)"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="lib/jzlib-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/mina-core-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-example-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-filter-codec-netty-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-filter-compression-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-beans-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-jmx-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-ognl-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-xbean-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-statemachine-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-transport-apr-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/mina-transport-serial-2.0.0-M6.jar"/>
+	<classpathentry kind="lib" path="lib/netty2-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/ognl-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/rxtx-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-2.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="lib/xbean-spring-3.4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
